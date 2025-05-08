@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffeafc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f99fc9;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+.character-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    margin: 10px 0;
+    padding: 15 px;
+}
+footer {
+    background-color: #f99fc9;
+    text-align: center;
+    padding: 10px;
+}
