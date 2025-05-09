@@ -1,5 +1,6 @@
+</main>
 <footer>
-    <p>© 2025 <?php echo $theme; ?> PHP Fan Page</p>
+    <p>&copy; 2025 Bocchi the Rock! Fan Page</p>
 </footer>
 </body>
 
