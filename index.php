@@ -16,7 +16,7 @@
 
     echo "<ul>";
     for ($i = 0; $i < count($members); $i++) {
-        echo "<li>Member " . $members[$i] . ": $members[$i]</li>";
+        echo "<li>$members[$i]</li>";
     }
     echo "</ul>";
 
