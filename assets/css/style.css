@@ -1,20 +1,70 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #ffe6f0;
-    color: #333;
     margin: 0;
-    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #fbeff5; /*soft pink*/
+    color: #2e2e2e;
 }
-header, footer {
-    background-color: #ff99cc;
+
+header {
+    background-color: #ff70a6; /*bocchi pink*/
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #ff70a6;
+    color: white;
     text-align: center;
     padding: 10px;
 }
-nav a {
-    margin: 0 10px;
-    color: white;
-    text-decoration: none;
+
+.card {
+    background-color: #ff70a6;
+    border: 1px solid #ff70a6;
+    padding: 15px;
+    margin: 15px auto;
+    border-radius: 8px;
+    max-width: 500px;
 }
-section {
-    padding: 20px;
+
+.character-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px
+}
+
+.character-list {
+    background-color: #fff;
+    border: 2px solid #ff70a6;
+    border-radius: 10px;
+    padding: 10px;
+    width: 180px;
+    text-align: center;
+}
+
+.character-item a {
+    color: #ff70a6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.character-item a:hover {
+    text-decoration: underline;
 }
