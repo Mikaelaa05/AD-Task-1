@@ -1,4 +1,4 @@
-<?php include_once __DIR__ . '/utils/config.php'; ?>
+<?php include_once __DIR__ . '/../utils/config.php'; ?>
 <!DOCTYPE html>
 <html>
 
