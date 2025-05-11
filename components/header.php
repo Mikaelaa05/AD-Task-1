@@ -4,7 +4,12 @@
 
     <head>
         <title><?php echo $theme; ?> Fan Page</title>
-        <<link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
+        <?php
+        $currentPage = basename($_SERVER['PHP_SELF'], '.php');
+        $cssPath = BASE_URL . "page/assets/css/$currentPage.css";
+        ?>
+        <link rel="stylesheet" href="<?php echo $cssPath; ?>">
+        <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
     </head>
 
     <body>
