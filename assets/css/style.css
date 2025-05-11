@@ -28,15 +28,15 @@ main {
 }
 
 footer {
-    background-color: #ff70a6;
+    background-color: #ff80bf;
     color: white;
     text-align: center;
     padding: 10px;
 }
 
 .card {
-    background-color: #ff70a6;
-    border: 1px solid #ff70a6;
+    background-color: #ff80bf;
+    border: 1px solid #ff80bf;
     padding: 15px;
     margin: 15px auto;
     border-radius: 8px;
@@ -52,7 +52,7 @@ footer {
 
 .character-list {
     background-color: #fff;
-    border: 2px solid #ff70a6;
+    border: 2px solid #ff80bf;
     border-radius: 10px;
     padding: 10px;
     width: 180px;
@@ -60,7 +60,7 @@ footer {
 }
 
 .character-item a {
-    color: #ff70a6;
+    color: #ff80bf;
     text-decoration: none;
     font-weight: bold;
 }
