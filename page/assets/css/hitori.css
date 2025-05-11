@@ -1,0 +1,13 @@
+body {
+    background-color: #ffe6f2;
+    color: #cc0066;
+}
+
+header, footer, .card {
+    background-color: #ff80bf;
+    border-color: #ff80bf;
+}
+
+.character-item a {
+    color: #ff80bf;
+}
