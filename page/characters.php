@@ -1,4 +1,4 @@
-<?php include '/../components/header.php'; ?>
+<?php include '../components/header.php'; ?>
 
 <div class="card">
     <h2>Meet Kessoku Band!</h2>
@@ -10,4 +10,4 @@
     </div>
 </div>
 
-<?php include '/../components/footer.php'; ?>
+<?php include '../components/footer.php'; ?>
