@@ -4,12 +4,19 @@
 
     <head>
         <title><?php echo $theme; ?> Fan Page</title>
+
+        <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
+
         <?php
         $currentPage = basename($_SERVER['PHP_SELF'], '.php');
         $cssPath = BASE_URL . "page/assets/css/$currentPage.css";
+        if (file_exists(__DIR__ . "/../page/assets/css/$currentPage.css")) {
+            echo "<link rel='stylesheet' href='$cssPath'>";
+        } else {
+            echo "<link rel='stylesheet' href='" . BASE_URL . "assets/css/default.css'>";
+        }
         ?>
         <link rel="stylesheet" href="<?php echo $cssPath; ?>">
-        <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
     </head>
 
     <body>
