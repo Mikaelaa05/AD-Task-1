@@ -3,7 +3,7 @@ body {
     color: #990000;
 }
 
-header, footer, card {
+header, footer, .card {
     background-color: #ff4d4d;
     border-color: #ff4d4d;
 }
