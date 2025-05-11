@@ -1,4 +1,4 @@
-<?php include_once '../components/header.php'; ?>
+<?php include '../components/header.php'; ?>
 
 <div class="card">
     <h2>Ikuyo Kita</h2>
@@ -7,4 +7,4 @@
         love for music.</p>
 </div>
 
-<?php include_once '../components/footer.php'; ?>
+<?php include '../components/footer.php'; ?>
