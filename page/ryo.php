@@ -1,4 +1,4 @@
-<?php include_once '/../components/header.php'; ?>
+<?php include_once '../components/header.php'; ?>
 
 <div class="card">
     <h2>Yamada Ryo</h2>
