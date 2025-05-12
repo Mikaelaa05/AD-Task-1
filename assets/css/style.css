@@ -61,6 +61,16 @@ footer {
     padding: 10px;
 }
 
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
 .card {
     background-color: #ff80bf;
     border: 1px solid #ff80bf;
