@@ -7,7 +7,7 @@ const images = {
     kita: [
         "ikuyo_kita_1.jpg",
         "ikuyo_kita_2.jpg",
-        "ikuyo_kita_3.jpg",
+        "ikuyo_kita_3.jpg"
     ],
     nijika: [
         "ichiji_nijika_1.jpg",
@@ -27,8 +27,8 @@ if (images[currentPage]) {
     let currentIndex = 0;
 
     function changeImage(direction) {
-        const imageElement = document.getElementByID("character-image");
-        const characterImages = image[currentPage];
+        const imageElement = document.getElementById("character-image");
+        const characterImages = images[currentPage];
 
         if (direction === "left") {
             currentIndex = (currentIndex - 1 + characterImages.length) % characterImages.length;
