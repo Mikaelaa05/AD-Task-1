@@ -32,7 +32,7 @@
                         <li><a href="<?php echo BASE_URL; ?>page/contact.php">Contact Us</a></li>
                     </ul>
                 </nav>
-                <img src="<?php echo BASE_URL; ?>assets/img/kessoku_band_logo" alt="Kessoku Band logo"
+                <img src="<?php echo BASE_URL; ?>assets\img\Kessoku Band Logo Clear.png" alt="Kessoku Band logo"
                     class="logo-right">
             </div>
         </header>
