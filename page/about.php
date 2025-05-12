@@ -8,21 +8,26 @@
 
     <div class="about-images">
         <figure>
-            <img src="<?php echo BASE_URL; ?>assets\img\Hamaji Aki 1.jpg" alt="Hamaji Aki 1" width="225" height="350">
+            <img src="<?php echo BASE_URL; ?>assets/img/Hamaji Aki 1.jpg" alt="Hamaji Aki 1" width="225" height="350">
             <figcaption>Hamaji Aki</figcaption>
             <p>Hamaji Aki is the mangaka and creator of <?php echo $theme ?>.</p>
         </figure>
         <figure>
-            <img src="<?php echo BASE_URL; ?>assets/img/about_2.jpg" alt="Screenshot 2" width="400" height="400">
-            <figcaption>Kita Ikuyo, the rhythm guitarist and lead singer of Kessoku Band.</figcaption>
+            <img src="<?php echo BASE_URL; ?>assets/img/Kerorira 1.jpg" alt="Kerorira 1" width="400" height="400">
+            <figcaption>Kerorira</figcaption>
+            <p>Hamaji Aki is the mangaka and creator of <?php echo $theme ?>.</p>
         </figure>
         <figure>
-            <img src="<?php echo BASE_URL; ?>assets/img/about_3.jpg" alt="Screenshot 3" width="400" height="400">
-            <figcaption>Ichiji Nijika, the drummer and leader of Kessoku Band.</figcaption>
+            <img src="<?php echo BASE_URL; ?>assets/img/cloverworkslogo.jpg" alt="CloverWorks Logo" width="400"
+                height="400">
+            <figcaption>CloverWorks</figcaption>
+            <p>Hamaji Aki is the mangaka and creator of <?php echo $theme ?>.</p>
         </figure>
         <figure>
-            <img src="<?php echo BASE_URL; ?>assets/img/about_4.jpg" alt="Screenshot 4" width="400" height="400">
-            <figcaption>Yamada Ryo, the bassist and composer of Kessoku Band.</figcaption>
+            <img src="<?php echo BASE_URL; ?>assets/img/Kessoku Band Jump Shot NEW.jpg" alt="Kessoku Band Jumpshot"
+                width="400" height="400">
+            <figcaption>The anime</figcaption>
+            <p>Hamaji Aki is the mangaka and creator of <?php echo $theme ?>.</p>
         </figure>
     </div>
 </div>
