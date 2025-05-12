@@ -8,6 +8,62 @@ header, footer, .card {
     border-color: #ff80bf;
 }
 
-.character-item a {
-    color: #ff80bf;
+.character-image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.character-image-container img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.image-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-nav.left {
+    left: 10px;
+}
+
+.image-nav.right {
+    right: 10px;
+}
+
+.image-nav:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav-button {
+    background-color: #ff80bf;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.nav-buttons:hover {
+    background-color: #e673a6;
 }
