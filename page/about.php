@@ -9,11 +9,20 @@
     <div class="about-images">
         <figure>
             <img src="<?php echo BASE_URL; ?>assets/img/about_1.jpg" alt="Screenshot 1" width="400" height="400">
-            <figcaption>Gotoh Hitori, the main character of <?php echo $theme ?>.</figcaption>
+            <figcaption>Gotoh Hitori, the lead guitarist and lyricist of Kessoku band, and the main character of
+                <?php echo $theme ?>.</figcaption>
         </figure>
         <figure>
             <img src="<?php echo BASE_URL; ?>assets/img/about_2.jpg" alt="Screenshot 2" width="400" height="400">
-            <figcaption>Ikuyo Kita, the rhythm guitarist and leader singer of <?php echo $theme ?>.</figcaption>
+            <figcaption>Kita Ikuyo, the rhythm guitarist and lead singer of Kessoku Band.</figcaption>
+        </figure>
+        <figure>
+            <img src="<?php echo BASE_URL; ?>assets/img/about_3.jpg" alt="Screenshot 3" width="400" height="400">
+            <figcaption>Ichiji Nijika, the drummer and leader of Kessoku Band.</figcaption>
+        </figure>
+        <figure>
+            <img src="<?php echo BASE_URL; ?>assets/img/about_4.jpg" alt="Screenshot 4" width="400" height="400">
+            <figcaption>Yamada Ryo, the bassist and composer of Kessoku Band.</figcaption>
         </figure>
     </div>
 </div>
