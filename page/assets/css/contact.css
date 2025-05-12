@@ -13,7 +13,7 @@ textarea {
 }
 
 button {
-    background-color: #ff80bf;
+    background-color: black;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -22,5 +22,5 @@ button {
 }
 
 button:hover {
-    background-color: #e673a6;
+    background-color: #414141;
 }
