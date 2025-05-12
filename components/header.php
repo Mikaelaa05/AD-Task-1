@@ -17,6 +17,7 @@
         }
         ?>
         <link rel="stylesheet" href="<?php echo $cssPath; ?>">
+        <script src="<?php echo BASE_URL; ?>page/assets/js/character_navigation.js"></script>
     </head>
 
     <body>
