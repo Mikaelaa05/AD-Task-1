@@ -10,8 +10,7 @@
         <input type="email" id="email" name="email"><br>
         <label for="message">Message:</label><br>
         <textarea id="message" name="message" rows="5" cols="40" placeholder="Type your message here..."></textarea><br>
-        <button typ[e="submit">Send</button>]
-        <input type="submit" value="Submit">
+        <button type="submit">Submit</button>
 </div>
 
 <?php include '../components/footer.php'; ?>
