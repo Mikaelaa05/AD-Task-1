@@ -105,3 +105,19 @@ footer a:hover {
 .character-item a:hover {
     text-decoration: underline;
 }
+
+.back-button {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.back-button a {
+    color: #ff80bf;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.back-button a:hover {
+    text-decoration: underline;
+}
