@@ -25,9 +25,8 @@
             <nav>
                 <ul>
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>page/characters.php">Characters</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>page/episodes.php">Episodes</a></li>
                     <li><a href="<?php echo BASE_URL; ?>page/about.php">About</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>page/characters.php">Characters</a></li>
                 </ul>
             </nav>
         </header>
