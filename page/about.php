@@ -2,8 +2,6 @@
 
 <div class="card">
     <h2>About</h2>
-    <p>Created by [Your Name].</p>
-    <p>For more information, visit the official website: <a href="https://bocchitherock.com">Bocchi the Rock!</a></p>
     <h2>About <?php echo $theme ?></h2>
     <p><?php echo $theme ?> is a Japanese anime series that follows the story of Gotoh Hitori, a shy and introverted
         girl who dreams of becoming a rock star. She joins the Kessoku Band and embarks on a journey of self-discovery,

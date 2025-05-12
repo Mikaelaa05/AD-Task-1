@@ -6,6 +6,7 @@
     <h2>Welcome to the <?php echo $theme; ?> Fan Page!</h2>
     <p>This is a fan page dedicated to the amazing anime series "<?php echo $theme; ?>" and its characters. To do this,
         it utilizes the basics of PHP!</p>
+    <p>For more information, visit the official website: <a href="https://bocchi.rocks">Bocchi the Rock!</a></p>
 </div>
 
 <div class="card">
