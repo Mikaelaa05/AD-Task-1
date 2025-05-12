@@ -8,9 +8,8 @@
 
     <div class="about-images">
         <figure>
-            <img src="<?php echo BASE_URL; ?>assets/img/about_1.jpg" alt="Screenshot 1" width="400" height="400">
-            <figcaption>Gotoh Hitori, the lead guitarist and lyricist of Kessoku band, and the main character of
-                <?php echo $theme ?>.</figcaption>
+            <img src="<?php echo BASE_URL; ?>assets\img\Hamaji Aki 1.jpg" alt="Hamaji Aki 1" width="225" height="350">
+            <figcaption>Hamaji Aki is the mangaka and creator of <?php echo $theme ?>.</figcaption>
         </figure>
         <figure>
             <img src="<?php echo BASE_URL; ?>assets/img/about_2.jpg" alt="Screenshot 2" width="400" height="400">
