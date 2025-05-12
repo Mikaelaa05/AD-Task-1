@@ -7,4 +7,5 @@
         music.</p>
 </div>
 
+<?php include '../components/back_button.php'; ?>
 <?php include '../components/footer.php'; ?>

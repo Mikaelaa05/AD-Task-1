@@ -6,4 +6,5 @@
     <p>Yamada Ryo is the band's bassist. She is cool and mysterious with a quirky attitude.</p>
 </div>
 
+<?php include '../components/back_button.php'; ?>
 <?php include '../components/footer.php'; ?>
