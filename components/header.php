@@ -5,6 +5,8 @@
     <head>
         <title><?php echo $theme; ?> Fan Page</title>
 
+        <script src="<?php echo BASE_URL; ?>page/assets/js/character_navigation.js"></script>
+
         <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
 
         <?php
@@ -17,7 +19,6 @@
         }
         ?>
         <link rel="stylesheet" href="<?php echo $cssPath; ?>">
-        <script src="<?php echo BASE_URL; ?>page/assets/js/character_navigation.js"></script>
     </head>
 
     <body>
