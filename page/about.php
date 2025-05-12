@@ -1,7 +1,6 @@
 <?php include '../components/header.php'; ?>
 
 <div class="card">
-    <h2>About</h2>
     <h2>About <?php echo $theme ?></h2>
     <p><?php echo $theme ?> is a Japanese anime series that follows the story of Gotoh Hitori, a shy and introverted
         girl who dreams of becoming a rock star. She joins the Kessoku Band and embarks on a journey of self-discovery,
