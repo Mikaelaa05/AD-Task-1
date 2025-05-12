@@ -8,9 +8,14 @@ header, footer, .card {
     border-color: #ff4d4d;
 }
 
+.kita-card {
+    text-align: center;
+}
+
 .character-image-container {
     position: relative;
     display: inline-block;
+    margin: 20px auto;
 }
 
 .character-image-container img {
@@ -47,6 +52,13 @@ header, footer, .card {
 
 .image-nav:hover {
     background-color: rgba(0, 0, 0, 0.8);
+}
+
+.kita-card p {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
 }
 
 .navigation-buttons {
