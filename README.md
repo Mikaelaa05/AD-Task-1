@@ -41,5 +41,5 @@ Welcome to the **Bocchi the Rock! Fan Page**, a lovingly crafted website dedicat
 
 ---
 
-## ❤️ Thank You for Visiting!
+## 💗❤️ Thank You for Visiting! 💛💙
 Enjoy exploring the world of *Bocchi the Rock!* 🌟✨ Let’s rock together! 🎶
