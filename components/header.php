@@ -28,7 +28,7 @@
     <body>
         <header>
             <div class="header-content">
-                <img src=" <?php echo BASE_URL; ?>assets\img\Bocchi the rock logo small.png" alt="Bocchi the Rock! logo"
+                <img src="<?php echo BASE_PATH; ?>\assets\img\Bocchi the rock logo small.png" alt="Bocchi the Rock! logo"
                     class="logo-left">
                 <nav>
                     <ul>
