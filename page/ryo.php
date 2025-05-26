@@ -1,6 +1,5 @@
-<?php require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ .'/../bootstrap.php';
-include '../components/header.php'; ?>
+<?php require_once __DIR__ . '/../init.php'; ?>
+<?php include __DIR__ . '/../components/header.php'; ?>
 
 <div class="card ryo-card">
     <h2>Yamada Ryo</h2>
@@ -17,5 +16,5 @@ include '../components/header.php'; ?>
     <a href="hitori.php" class="nav-button">Next →</a>
 </div>
 
-<?php include '../components/back_button.php'; ?>
-<?php include '../components/footer.php'; ?>
+<?php include __DIR__ . '/../components/back_button.php'; ?>
+<?php include __DIR__ . '/../components/footer.php'; ?>
