@@ -28,7 +28,7 @@
     <body>
         <header>
             <div class="header-content">
-                <img src=" <?php echo BASE_URL; ?>assets\img\Bocchi the rock logo small.png" alt="Bocchi the Rock! logo"
+                <img src=" <?php echo BASE_URL; ?>assets\img\Bocchi_the_rock_logo_small.png" alt="Bocchi the Rock! logo"
                     class="logo-left">
                 <nav>
                     <ul>
@@ -38,7 +38,7 @@
                         <li><a href="<?php echo BASE_URL; ?>page/contact.php">Contact Us</a></li>
                     </ul>
                 </nav>
-                <img src="<?php echo BASE_URL; ?>assets\img\Kessoku Band Logo Clear.png" alt="Kessoku Band logo"
+                <img src="<?php echo BASE_URL; ?>assets\img\Kessoku_Band_Logo_Clear.png" alt="Kessoku Band logo"
                     class="logo-right">
             </div>
         </header>
