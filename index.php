@@ -15,7 +15,7 @@
     <?php
     $members = [
         'Gotoh Hitori',
-        'Kita Ikuyo',
+        'Ikuyo Kita',
         'Ichiji Nijika',
         'Yamada Ryo'
     ];
