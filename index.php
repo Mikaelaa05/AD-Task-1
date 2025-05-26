@@ -1,6 +1,8 @@
-<?php include 'components/header.php'; ?>
+<?php require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ .'/bootstrap.php';
+include 'components/header.php';
 
-<?php $isBind = true; ?>
+$isBind = true; ?>
 
 <div class="card">
     <h2>Welcome to the <?php echo $theme; ?> Fan Page!</h2>

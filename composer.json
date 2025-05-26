@@ -1,0 +1,16 @@
+{
+    "name": "mikaelacid/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mikaelacid\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikaelaa05",
+            "email": "bumble.macz@yahoo.com"
+        }
+    ],
+    "require": {}
+}

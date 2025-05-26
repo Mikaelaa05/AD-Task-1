@@ -1,4 +1,6 @@
-<?php include '../components/header.php'; ?>
+<?php require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ .'/bootstrap.php';
+include 'components/header.php'; ?>
 
 <div class="card kita-card">
     <h2>Kita Ikuyo</h2>
